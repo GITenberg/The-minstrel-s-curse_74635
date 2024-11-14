@@ -1,0 +1,35 @@
+_repo: The-minstrel-s-curse_74635
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Alex. McVeigh, Mrs.
+    aliases:
+    - Miller, Mrs. Alex McVeigh
+    - Miller, Alexander McVeigh, Mrs.
+    - Point, Mittie Frances Clarke
+    - Miller, Mrs. Alex. McVeigh
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '35103'
+    url: http://www.gutenberg.org/2009/agents/35103
+    wikipedia: https://en.wikipedia.org/wiki/Mittie_Frances_Clarke_Point
+description: ''
+gutenberg_issued: '2024-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74635'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Search/Results?lookfor=%22minstrel%27s+curse%22+-catholic&type=AllFields&sort=normalized_sort_date+asc
+pgterms:marc905: 20240724175948miller
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: Demian Katz and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aNew York :$bNorman L. Munro, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The minstrel's curse
+url: http://www.gutenberg.org/ebooks/74635
